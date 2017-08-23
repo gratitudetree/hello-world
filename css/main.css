@@ -2,3 +2,6 @@ p {
 font-size: 2rem;
 color: #f00;
 }
+.container {
+  background-color: #ddf;
+}
